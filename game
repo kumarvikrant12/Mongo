@@ -3,7 +3,7 @@
 import pygame
 import random 
 
-# Initialize pygame
+# Initialize pygam
 pygame.init()
 
 # Set up display
