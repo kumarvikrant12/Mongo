@@ -8,7 +8,7 @@ struct Book {
     char title[50];
     char author[50];
     int is_available;  // 1 if available, 0 if borrowed
-};
+}
 
 // Function prototypes
 void addBook(FILE *file);
