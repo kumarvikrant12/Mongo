@@ -2,7 +2,6 @@
 # The Game uses Tkinter as the deployed system and acting as a LIVE SERVER
 import pygame
 import random
-
 # Initialize pygame
 pygame.init()
 
