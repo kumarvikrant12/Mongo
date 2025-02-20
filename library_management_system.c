@@ -26,7 +26,7 @@ int main(){
     if (file == NULL) {
         printf("Error opening file!\n");
         return 1;
-    }
+    };
 
     while(1) {
         printf("\n=== Library Management System ===\n");
