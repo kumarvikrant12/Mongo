@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-// Structure to store book information
+// Structure to store book informatio
 struct Book {
     int ID;
     char title[50];
